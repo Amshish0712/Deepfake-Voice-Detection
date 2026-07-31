@@ -1,0 +1,26 @@
+# Python & Cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+
+# Environments
+.venv/
+venv/
+env/
+DEEPFAKE_ENV/
+
+# IDEs & Editors
+.vscode/
+.idea/
+
+# Large Datasets & Feature Arrays (>100MB GitHub limit)
+Dataset/
+*.npy
+
+# Temporary files
+*.tmp
+*.log
