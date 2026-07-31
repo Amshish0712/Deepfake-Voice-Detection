@@ -95,24 +95,9 @@ python predict.py
 
 ---
 
-## 🎯 Placement / Interview Resume Highlights
-
-If listing this project on your resume for AI/ML or Software Engineering roles:
-
-> **DeepFake Voice Detection System | Python, TensorFlow, Librosa, Keras, NumPy**
-> * Developed an end-to-end Deep Learning pipeline to classify real vs AI-cloned (RVC) voices using 40-channel MFCC spectrogram features.
-> * Benchmarked 2D CNN vs. Hybrid 1D-CNN+LSTM architectures across **69,300+ audio samples**.
-> * Achieved **94.58% accuracy** and **97.11% precision** on an unseen test benchmark of 4,634 audio files.
-> * Built a native desktop inference tool (`predict.py`) for real-time audio sample verification.
-
----
 
 ## 📄 Reference
 
 * Baseline Paper: `Voice_Spoofing_Detection_Based_on_the_RVC_Deep_Learning_CNN_Model.pdf`
 
 ---
-
-## 📜 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
