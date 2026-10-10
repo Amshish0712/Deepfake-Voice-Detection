@@ -148,17 +148,7 @@ python predict.py
 
 ---
 
-## 🎯 Placement / Interview Resume Highlights
 
-If listing this project on your resume for AI/ML or Software Engineering roles:
-
-> **DeepFake Voice Detection System | PyTorch, TensorFlow, HuggingFace, Librosa, Signal Processing**
-> * Developed an end-to-end DeepFake Voice Detection platform benchmarking 2D CNNs, 1D-CNN+LSTM, and novel Audio Wavelet Transformers across **69,300+ audio samples**.
-> * Engineered **AWaveFormer-Lite**, combining self-supervised Wav2Vec 2.0 embeddings with 1D Discrete Wavelet Transforms (`db3`) and Multi-Scale Pooling to capture subtle neural vocoder and RVC voice cloning artifacts.
-> * Achieved **96.10% accuracy** and slashed Equal Error Rate (EER) to **3.79%** on an unseen test benchmark of 4,634 audio files.
-> * Built native interactive desktop GUI tools for live audio inspection and batch verification.
-
----
 
 ## 📄 References
 
