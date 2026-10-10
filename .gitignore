@@ -20,7 +20,13 @@ DEEPFAKE_ENV/
 # Large Datasets & Feature Arrays (>100MB GitHub limit)
 Dataset/
 *.npy
+*.pt
+checkpoints/
+**/checkpoints/
+deepfake_env/
+*/deepfake_env/
 
 # Temporary files
 *.tmp
 *.log
+!awaveformer/training.log

@@ -63,7 +63,8 @@ if features is not None:
     label = "Fake Voice" if prediction > 0.5 else "Real Voice "
     confidence = prediction if prediction > 0.5 else 1 - prediction
 
-    print("\nPrediction:", label)
+    print(f"\nPrediction: {label}")
+    print(f"Confidence: {confidence * 100:.2f}%\n")
 
 else:
     print("Feature extraction failed")

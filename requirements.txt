@@ -1,0 +1,18 @@
+# Audio & Deep Learning Core
+numpy>=1.22.0
+scipy>=1.9.0
+librosa>=0.10.0
+soundfile>=0.12.1
+
+# Machine Learning & Visualization (Baseline Models)
+tensorflow>=2.10.0
+scikit-learn>=1.2.0
+matplotlib>=3.6.0
+seaborn>=0.12.0
+tqdm>=4.65.0
+
+# AWaveFormer Extension (Wavelet Transformer)
+torch>=2.0.0
+torchaudio>=2.0.0
+transformers>=4.30.0
+pytorch-wavelets
